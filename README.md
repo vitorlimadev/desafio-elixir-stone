@@ -23,6 +23,10 @@ node ./getIndividualDebt.js
 
 This will run the application with the default values present in the getIndividualDebt.js file.
 
+The default output:
+
+![](test.png)
+
 ## Changing data
 
 In the beggining of the getIndividualDebt.js file, you'll see two arrays, one to store the emails list and another to store the shopping list data. This is the default data, used when you run the application without changing anything.

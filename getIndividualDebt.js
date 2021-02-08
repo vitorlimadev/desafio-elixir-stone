@@ -3,7 +3,6 @@
  * @type {Array<string>}
  */
 const emailsList = [
-  "vitorlimadev@outlook.com",
   "another@castle.com",
   "arrow@theknee.com",
   "snake_eater@psychomantis.com",

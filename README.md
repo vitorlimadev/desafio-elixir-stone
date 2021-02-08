@@ -33,7 +33,6 @@ In the beggining of the getIndividualDebt.js file, you'll see two arrays, one to
 
 ```js
 const emailsList = [
-  "vitorlimadev@outlook.com",
   "another@castle.com",
   "arrow@theknee.com",
   "snake_eater@psychomantis.com",
